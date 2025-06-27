@@ -19,10 +19,14 @@
 
 ## 🌐 Portfólio e Redes
 
-- 💻 Portfólio: [eaezis.github.io/portfolio-v1](https://eaezis.github.io/portfolio-v1/)
-- 🧾 Cartão de Perfil: [eaezis.github.io/profile-card](https://eaezis.github.io/profile-card/)
-- 💼 LinkedIn: [linkedin.com/in/demilly-oliveira-582158366](https://www.linkedin.com/in/demilly-oliveira-582158366/)
-- 🗂️ Repositórios: [github.com/eaezis](https://github.com/eaezis)
+- 💻 [Portfólio (v1)](https://eaezis.github.io/portfolio-v1/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/demilly-oliveira-582158366/)  
+---
+
+## 🧾 Componentes e Mini Projetos
+
+- 💳 [Cartão de Perfil](https://eaezis.github.io/profile-card/)
+
 
 ---
 
