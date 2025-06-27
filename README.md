@@ -58,5 +58,5 @@
   💡 Curioso(a) sobre o que ando estudando e criando? <br>
   Fique à vontade para explorar meus repositórios! 🚀
 </p>
----
+
 <p align="center">💙 Obrigado por visitar meu perfil!</p>
