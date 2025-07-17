@@ -1,4 +1,4 @@
-# Olá! Eu sou o Zis 👋
+<h1 align="center">Olá! Eu sou o Zis 👋</h1>
 
 <div align="center">
   
